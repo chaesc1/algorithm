@@ -2,7 +2,7 @@ from collections import deque
 
 # 너비 우선 탐색
 
-
+var[]
 def bfs(graph, start, visited):
     queue = deque([start])
     visited[start] = True
